@@ -1,0 +1,13 @@
+C:\Users\gjuze\Desktop\homework\hm1\hm1\bin\Debug\netcoreapp3.1\hm1.exe
+C:\Users\gjuze\Desktop\homework\hm1\hm1\bin\Debug\netcoreapp3.1\hm1.deps.json
+C:\Users\gjuze\Desktop\homework\hm1\hm1\bin\Debug\netcoreapp3.1\hm1.runtimeconfig.json
+C:\Users\gjuze\Desktop\homework\hm1\hm1\bin\Debug\netcoreapp3.1\hm1.runtimeconfig.dev.json
+C:\Users\gjuze\Desktop\homework\hm1\hm1\bin\Debug\netcoreapp3.1\hm1.dll
+C:\Users\gjuze\Desktop\homework\hm1\hm1\bin\Debug\netcoreapp3.1\hm1.pdb
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.csprojAssemblyReference.cache
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.AssemblyInfoInputs.cache
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.AssemblyInfo.cs
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.csproj.CoreCompileInputs.cache
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.dll
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.pdb
+C:\Users\gjuze\Desktop\homework\hm1\hm1\obj\Debug\netcoreapp3.1\hm1.genruntimeconfig.cache

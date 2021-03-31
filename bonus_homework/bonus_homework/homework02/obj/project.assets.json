@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gjuze\\Desktop\\homeworkcs\\homework02\\homework02\\homework02\\homework02.csproj",
+      "projectUniqueName": "C:\\Users\\gjuze\\Desktop\\bonus_homework\\bonus_homework\\homework02\\homework02.csproj",
       "projectName": "homework02",
-      "projectPath": "C:\\Users\\gjuze\\Desktop\\homeworkcs\\homework02\\homework02\\homework02\\homework02.csproj",
+      "projectPath": "C:\\Users\\gjuze\\Desktop\\bonus_homework\\bonus_homework\\homework02\\homework02.csproj",
       "packagesPath": "C:\\Users\\gjuze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gjuze\\Desktop\\homeworkcs\\homework02\\homework02\\homework02\\obj\\",
+      "outputPath": "C:\\Users\\gjuze\\Desktop\\bonus_homework\\bonus_homework\\homework02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gjuze\\AppData\\Roaming\\NuGet\\NuGet.Config",

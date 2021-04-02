@@ -1,0 +1,13 @@
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\bin\Debug\netcoreapp3.1\StudentGroup.exe
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\bin\Debug\netcoreapp3.1\StudentGroup.deps.json
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.json
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.dev.json
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\bin\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\bin\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.csprojAssemblyReference.cache
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfo.cs
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\gjuze\Desktop\homework03\Homework03\exercise01\obj\Debug\netcoreapp3.1\StudentGroup.genruntimeconfig.cache

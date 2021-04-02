@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroup", "exercise01\StudentGroup.csproj", "{2B3FAD82-BBBC-45F8-BFFD-F4B03ED29A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfEven", "SumOfEven\SumOfEven.csproj", "{6263E54C-6B07-47B1-9DC6-6F05C2CB68AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3FAD82-BBBC-45F8-BFFD-F4B03ED29A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3FAD82-BBBC-45F8-BFFD-F4B03ED29A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3FAD82-BBBC-45F8-BFFD-F4B03ED29A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3FAD82-BBBC-45F8-BFFD-F4B03ED29A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6263E54C-6B07-47B1-9DC6-6F05C2CB68AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6263E54C-6B07-47B1-9DC6-6F05C2CB68AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6263E54C-6B07-47B1-9DC6-6F05C2CB68AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6263E54C-6B07-47B1-9DC6-6F05C2CB68AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5046D8D7-0D5F-4894-AC59-3787916C5296}
+	EndGlobalSection
+EndGlobal

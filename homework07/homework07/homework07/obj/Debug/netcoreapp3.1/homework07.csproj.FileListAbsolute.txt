@@ -1,0 +1,13 @@
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\bin\Debug\netcoreapp3.1\homework07.exe
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\bin\Debug\netcoreapp3.1\homework07.deps.json
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\bin\Debug\netcoreapp3.1\homework07.runtimeconfig.json
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\bin\Debug\netcoreapp3.1\homework07.runtimeconfig.dev.json
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\bin\Debug\netcoreapp3.1\homework07.dll
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\bin\Debug\netcoreapp3.1\homework07.pdb
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.csprojAssemblyReference.cache
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.AssemblyInfoInputs.cache
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.AssemblyInfo.cs
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.csproj.CoreCompileInputs.cache
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.dll
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.pdb
+C:\Users\gjuze\Desktop\homework07\homework07\homework07\obj\Debug\netcoreapp3.1\homework07.genruntimeconfig.cache
